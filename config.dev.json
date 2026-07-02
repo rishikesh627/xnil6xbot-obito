@@ -11,8 +11,7 @@
   },
   "antiInbox": false,
   "language": "en",
-  "notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-  "nickNameBot": "obito-bot",
+"notesLanguage": "Bot language is set to English (ISO 639-1: en)."
   "prefix": "/",
   "adminOnly": {
     "enable": false,
